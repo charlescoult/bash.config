@@ -1,0 +1,8 @@
+#!/bin/bash
+
+
+# export PATH=${PATH}
+
+export DATA=$HOME/data
+export DATA_POSTERITY=$DATA/posterity
+
